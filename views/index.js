@@ -1,1 +1,4 @@
-ccccccccccccccccccccccc
+SAMPLE_CONFIG: aaaaaaaaaaaaaaaaaaa
+SAMPLE_CONFIG2: aaaaaaaaaaaaaaaaaaa2
+SAMPLE_CONFIG3: aaaaaaaaaaaaaaaaaaa3
+SAMPLE_CONFIG4: aaaaaaaaaaaaaaaaaaa4
